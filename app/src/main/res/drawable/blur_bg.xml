@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- rounded_rectangle.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="20dp"/> <!-- Köşeleri yuvarlatma yarıçapı -->
+    <solid android:color="@android:color/transparent"/> <!-- Şeklin iç rengi, burada şeffaf -->
+</shape>

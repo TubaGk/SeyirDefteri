@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "802875337882",
+    "firebase_url": "https://seyirdefteri-79356-default-rtdb.firebaseio.com",
+    "project_id": "seyirdefteri-79356",
+    "storage_bucket": "seyirdefteri-79356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802875337882:android:4b617522181c8eea824323",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt-s5wWrJsJ7nQiAgxWYOIvmsjbp7egTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802875337882:android:7ba41aed5ad1d160824323",
+        "android_client_info": {
+          "package_name": "com.example.movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt-s5wWrJsJ7nQiAgxWYOIvmsjbp7egTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802875337882:android:7f54c2237f947d35824323",
+        "android_client_info": {
+          "package_name": "com.example.seyirdefteri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt-s5wWrJsJ7nQiAgxWYOIvmsjbp7egTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
